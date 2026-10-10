@@ -1,0 +1,14 @@
+{
+  "name": "test-manager-library-3413974-tool",
+  "version": "1.0.0",
+  "description": "Utilidades de sembrado de datos para Manager Library",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "seed": "node index.js"
+  },
+  "keywords": ["seed", "library", "testing"],
+  "author": "",
+  "license": "ISC"
+}
